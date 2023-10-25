@@ -43,6 +43,8 @@ Enjoy using your text editor web application!
 ## Screenshots/Links
 
 [JATE: Just Another Text Editor](https://pretty-worthy-text-editor-6541da9fde14.herokuapp.com)
+
+#### An image of the editor
 ![textEditor](https://github.com/TheMikal/Pretty-Worthy-Text-Editor/assets/131578548/506c2d27-c717-492e-9e82-5aad63c81fe3)
 
 ## Contributing
